@@ -7,6 +7,6 @@ Coursera - Exploratory Data Analysis
  * « plot2.R », code that creates the second image.
  * « plot3.R », code that creates the third image.
  * « plot4.R », code that creates the fourth image.
- * « data », folder containing the original zip file and the extract data in .txt format.
+ * « data », folder containing the extract data in .txt format.
  * « image », folder containing the four generated images.
 
